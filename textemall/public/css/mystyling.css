@@ -1,0 +1,38 @@
+
+.message-post-style{
+	display: block;
+	padding: 15px 20px 10px 20px;
+	position: relative;
+	right: 25px;
+	color: #262626;
+    background: #e6e6e6;
+    margin: 20px 0px 20px 170px;
+    font-size: 12px;
+	width: inherit;
+	border-radius: 10px !important;
+}
+
+.arrow-style{
+	display: block;
+	position: absolute;
+    top: 20px;
+    right: -10px;
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-left-width: 6px;
+    border-left-style: solid;
+	border-left-color: #808080;
+}
+
+.arrow-style-in{
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: -10px;
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-right-width: 6px;
+    border-right-style: solid;
+	border-right-color: #808080;
+}
+
